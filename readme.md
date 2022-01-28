@@ -1,6 +1,7 @@
 ﻿# CornStar Race
 
-![CornStar Race logo](https://img.freepik.com/free-vector/delicious-fast-food_24877-57133.jpg?size=338&ext=jpg)
+![CornStar Race logo](https://github.com/jdc212/cornstar-race/blob/8d5863c5cbcee7c023db9b8af4b5ce8227501abe/images/CSlogo.png)
+<br>
 The most unique car racing game ever!
 
 After years hiding in a movie theater, Pikoka - a popcorn - decides to break free and pursue her dream: becoming an actress in Hollywood. She skateboards dangerous roads on her quest to make it in the film industry.
