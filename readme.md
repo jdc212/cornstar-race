@@ -21,4 +21,4 @@ I'm a coding candidate currently learning JavaScript, HTML/CSS. I'm a media stra
 
 ## Play the game
 
-You can find _CornStar Race_ [here](www.github.com).
+You can find _CornStar Race_ [here](https://jdc212.github.io/cornstar-race/).
