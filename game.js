@@ -16,16 +16,16 @@ scooterImg.src = "./images/pskate.png";
 
 //Vehicles
 const obsImg = new Image();
-obsImg.src = "./images/obs_3cones.png";
+obsImg.src = "./images/truck.png";
 
 const obs2Img = new Image();
-obs2Img.src = "./images/obs_cone.png";
+obs2Img.src = "./images/police.png";
 
 const obs5Img = new Image();
-obs5Img.src = "./images/obs_warning.png";
+obs5Img.src = "./images/ambulance.png";
 
 const obs6Img = new Image();
-obs6Img.src = "./images/car.png";
+obs6Img.src = "./images/taxi.png";
 // se quiser + objetos const + add obsArray
 const obsArray = [
   {img:obsImg, width:300, heigth: 300}, 
@@ -186,7 +186,7 @@ class Game {
   updateHealth(){
     ctx.font = "25px Helvetica";
     ctx.fillStyle = "purple";
-    ctx.fillText(`Your Life: ${this.player.health}`, 60, 75); 
+    ctx.fillText(`Pikoka's Life: ${this.player.health}`, 60, 75); 
   }
 
   checkGameOver (){ 
